@@ -1,0 +1,1 @@
+# psw-cracker-dictionary
